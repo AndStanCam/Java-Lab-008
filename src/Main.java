@@ -9,6 +9,14 @@ import java.util.Scanner;
 
 public class Main {
 
+    /**
+     *
+     * @author Trevor Hartman
+     * @author Ander Stanley-Camba
+     * @since 2023-03-24
+     * @since 1.0
+
+     */
     public static void main(String[] args) {
         // Create a scanner object
             Scanner sc = new Scanner(System.in);
